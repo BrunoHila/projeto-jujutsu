@@ -70,16 +70,16 @@ main .personagem .imagem {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  width: 180px;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+  width: 250px;
+  justify-content:center;
+  align-items:center;
+  gap: 25px;
   background-color: rgba(0, 0, 0, 0.3);
 }
 
 .botoes .botao {
   border: none;
-  background: #000000;
+  background: #ffea006c;
   cursor: pointer;
   border-radius: 50%;
 }
