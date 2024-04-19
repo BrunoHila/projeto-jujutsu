@@ -56,7 +56,8 @@
 
   .botoes {
     padding: 20px;
-    top: 20px;
+    top: -20px;
+  
   }
 
   .botoes .botao img {
