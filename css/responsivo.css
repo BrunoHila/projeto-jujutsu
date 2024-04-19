@@ -43,7 +43,7 @@
 
   .conteudo .logo {
     width: 170px;
-    height: 75px;
+    height: auto;
   }
 
   .conteudo {
